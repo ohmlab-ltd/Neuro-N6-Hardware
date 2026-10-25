@@ -11,6 +11,8 @@ This directory contains released OhmLab hardware schematics, grouped by product.
 | Neuro Vision Thermal | Rev C | Available | [PDF](neuro-vision-thermal/Neuro-Vision-Thermal-Schematic-Rev-C.pdf) |
 | Neuro Vision TFT | Rev A | Available | [PDF](neuro-vision-tft/Neuro-Vision-TFT-Schematic-Rev-A.pdf) |
 | Neuro Vision TFT-W | Rev B | Available | [PDF](neuro-vision-tft-w/Neuro-Vision-TFT-W-Schematic-Rev-B.pdf) |
+| Neuro N6 Debug Adapter | To be announced | Not yet published | Not available |
+| B-CAMS-IMX Adapter | To be announced | Not yet published | Not available |
 
 ## Archived documents
 

@@ -28,6 +28,8 @@ All boards listed below are currently in production and have not yet shipped. Av
 | **Neuro Vision Thermal** | `OL-DEV-N6-005` | **Rev C** | 🟢 In production | [Available](schematics/neuro-vision-thermal/Neuro-Vision-Thermal-Schematic-Rev-C.pdf) | [Rev D](datasheets/neuro-vision-thermal/Neuro-Vision-Thermal-Datasheet-Rev-D.pdf) | Not yet shipped |
 | **Neuro Vision TFT** | `OL-DEV-N6-006` | **Rev A** | 🟢 In production | [Available](schematics/neuro-vision-tft/Neuro-Vision-TFT-Schematic-Rev-A.pdf) | [Rev D](datasheets/neuro-vision-tft/Neuro-Vision-TFT-W-Datasheet-Rev-D.pdf) | Not yet shipped |
 | **Neuro Vision TFT-W** | `OL-DEV-N6-007` | **Rev B** | 🟢 In production | [Available](schematics/neuro-vision-tft-w/Neuro-Vision-TFT-W-Schematic-Rev-B.pdf) | [Rev D](datasheets/neuro-vision-tft/Neuro-Vision-TFT-W-Datasheet-Rev-D.pdf) | Not yet shipped |
+| **Neuro N6 Debug Adapter** | To be announced | To be announced | 🟢 In production | To be announced | To be announced | Not yet shipped |
+| **B-CAMS-IMX Adapter** | To be announced | To be announced | 🟢 In production | To be announced | To be announced | Not yet shipped |
 
 > Shipping dates are estimates and may change as production progresses.
 
