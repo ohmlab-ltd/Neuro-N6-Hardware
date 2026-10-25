@@ -9,8 +9,8 @@ This directory contains released OhmLab hardware schematics, grouped by product.
 | Neuro Vision OV5640-W | Rev B | Available | [PDF](neuro-vision-ov5640-w/Neuro-Vision-OV5640-W-Schematic-Rev-B.pdf) |
 | Neuro Vision ST Cam | Rev B | Available | [PDF](neuro-vision-st-cam/Neuro-Vision-ST-Cam-Schematic-Rev-B.pdf) |
 | Neuro Vision Thermal | Rev C | Available | [PDF](neuro-vision-thermal/Neuro-Vision-Thermal-Schematic-Rev-C.pdf) |
-| Neuro Vision TFT | Rev A | Not yet published | Not available |
-| Neuro Vision TFT-W | Rev B | Not yet published | Not available |
+| Neuro Vision TFT | Rev A | Available | [PDF](neuro-vision-tft/Neuro-Vision-TFT-Schematic-Rev-A.pdf) |
+| Neuro Vision TFT-W | Rev B | Available | [PDF](neuro-vision-tft-w/Neuro-Vision-TFT-W-Schematic-Rev-B.pdf) |
 
 ## Archived documents
 
