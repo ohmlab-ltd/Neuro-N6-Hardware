@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ohmlab.co.uk"><strong>ohmlab.co.uk</strong></a>
+  <a href="https://neuron6.com"><strong>neuron6.com</strong></a>
   &nbsp;&bull;&nbsp;
   Estimated shipping: <strong>late October / early November</strong>
 </p>
@@ -17,7 +17,7 @@
 
 ## Hardware status
 
-All boards listed below are currently in production and have not yet shipped. Availability is planned for **late October / early November** from [ohmlab.co.uk](https://ohmlab.co.uk).
+All boards listed below are currently in production and have not yet shipped. Availability is planned for **late October / early November** from [store.neuron6.com](https://store.neuron6.com).
 
 | Product | Part number | Revision | Production | Schematic | Datasheet | Shipping |
 |:--|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -81,7 +81,7 @@ Hardware revision and document revision are tracked independently. Always confir
 
 ## Availability
 
-Boards will be available directly from **[OhmLab](https://ohmlab.co.uk)**. Watch this repository for schematic releases and documentation updates as production moves toward shipping.
+Boards will be available directly from **[OhmLab](https://store.neuron6.com)**. Watch this repository for schematic releases and documentation updates as production moves toward shipping.
 
 ---
 
